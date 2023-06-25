@@ -116,6 +116,10 @@ pip install -r requirements.txt
 
 4. Start run your bot, hosted locally or on a server.
 
+    para local usar 
+    ```
+    python bot.py
+    ```
    -> Recommended Free Servers: [fly.io](https://fly.io/)
 
 ## Credits
